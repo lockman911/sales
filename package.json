@@ -1,0 +1,21 @@
+{
+  "name": "tree",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16",
+    "react-dom": "^16",
+    "react-sortable-tree": "^2",
+    "react-sortable-tree-theme-full-node-drag": "1.1.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
